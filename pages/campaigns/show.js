@@ -41,7 +41,7 @@ class CampaignShow extends Component {
       },
       {
         header: minumumContribution,
-        meta: 'Minumum Contribution (wei)',
+        meta: 'Minimum Contribution (wei)',
         description:
           'You must contribute at least this much wei to become an approver',
       },
